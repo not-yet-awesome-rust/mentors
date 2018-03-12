@@ -1,4 +1,4 @@
-A list of domains and people from the Rust community willing to mentor work in those domains for the Rust ecosystem. This list is intended to supplement the content of [Not-Yet-Awesome Rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust), which serves as essentially list of holes in the Rust ecosystemasdafas
+A list of domains and people from the Rust community willing to mentor work in those domains for the Rust ecosystem. This list is intended to supplement the content of [Not-Yet-Awesome Rust](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust), which serves as essentially a list of holes in the Rust ecosystem.
 
 Want to add yourself to the list? Start editing [here](https://github.com/not-yet-awesome-rust/mentors/edit/master/README.md)!
 
